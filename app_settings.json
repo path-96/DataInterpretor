@@ -1,0 +1,36 @@
+{
+  "ip": "192.168.1.10",
+  "port": "5007",
+  "file_path": "C:/Users/usn00864/Desktop/Device1.txt",
+  "csv_dir": "C:/Users/usn00864/Desktop/Projects/2-Ong Prjs/RE3016",
+  "f3_delay_ms": 1500,
+  "clear_delay_ms": 100,
+  "ready_image_path": "image.png",
+  "ready_image_scale": 1.0,
+  "ready_search_region": [],
+  "plc_type": "Q",
+  "plc_timeout_sec": 3,
+  "plc_addresses": {
+    "inputs": {
+      "input1": "M0",
+      "input2": "M1",
+      "input3": "M2",
+      "input4": "M3",
+      "input5": "M4",
+      "input6": "M5",
+      "input7": "M6",
+      "input8": "M7"
+    },
+    "outputs": {
+      "output1": "M10",
+      "output2": "M11",
+      "output3": "M12",
+      "output4": "M13",
+      "output5": "M14",
+      "output6": "M15",
+      "output7": "M16",
+      "output8": "M17"
+    },
+    "value_output": "D10"
+  }
+}
